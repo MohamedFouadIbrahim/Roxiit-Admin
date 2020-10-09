@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+		<item name="android:datePickerDialogTheme">@style/Dialog.Theme</item>
+   		<item name="android:timePickerDialogTheme">@style/Dialog.Theme</item>
+		<item name="colorControlActivated">#23b8ec</item>
+		<item name="android:windowDisablePreview">true</item>
+    </style>
+
+	<style name="Dialog.Theme" parent="Theme.AppCompat.Light.Dialog">
+		<item name="colorAccent">#23b8ec</item>
+		<item name="android:textColorPrimary">#23b8ec</item>
+		<item name="colorPrimary">#23b8ec</item>
+		<item name="colorPrimaryDark">#23b8ec</item>
+		<item name="colorAccent">#23b8ec</item>
+	</style>
+
+	<!-- <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+		<item name="android:windowBackground">@drawable/background_splash</item>
+		<item name="android:statusBarColor">@color/blue</item>
+	</style> -->
+
+ <style name="BootTheme" parent="AppTheme">
+    <!-- set the generated bootsplash.xml drawable as activity background -->
+    <item name="android:background">@drawable/bootsplash</item>
+  </style>
+
+</resources>

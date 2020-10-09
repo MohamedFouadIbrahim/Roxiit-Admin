@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "544141146357",
+    "firebase_url": "https://roxiit-admin.firebaseio.com",
+    "project_id": "roxiit-admin",
+    "storage_bucket": "roxiit-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544141146357:android:b62c72ad068c7b54",
+        "android_client_info": {
+          "package_name": "com.roxiit.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544141146357-k6i8g40tlg3sg42nq03nug6cu3i94jof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBPdPYrpKQblZ-Zft_acPQYiqysLDsBbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544141146357-k6i8g40tlg3sg42nq03nug6cu3i94jof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
